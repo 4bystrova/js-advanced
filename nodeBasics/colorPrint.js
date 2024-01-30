@@ -1,3 +1,3 @@
 import chalk from 'chalk';
 
-console.log(chalk.yellow('Hello,'), chalk.blue('Stanislav!'));
+console.log(cgit checkout halk.yellow('Hello,'), chalk.blue('Stanislav!'));
